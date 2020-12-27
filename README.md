@@ -4,7 +4,7 @@
 
 # Hi !👋I'm GeeHon
 
-> A coder who is passionate about web technologies and open source.
+> A worker who is passionate about web technologies and open source.
 
 ## Languages and Tools
 
