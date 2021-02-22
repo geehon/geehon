@@ -14,4 +14,4 @@
 
 [![](https://img.shields.io/badge/-@GeeHon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/GeehonLiao) [![](https://img.shields.io/badge/-https://www.geehon.top-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://www.geehon.top)  [![](https://img.shields.io/badge/-geehon.liao@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:geehon.liao@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&theme=onelight&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&theme=onelight&hide=html,css)
