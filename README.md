@@ -1,7 +1,3 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=geehon&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
-
 # Hi !👋I'm GeeHon
 
 > A worker who is passionate about web technologies and open source.
