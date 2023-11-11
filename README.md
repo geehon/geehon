@@ -1,7 +1,6 @@
-# Hi !👋I'm GeeHon
+# About Me
 
-> **Note**</br>
-> A worker who is passionate about web technologies and open source.
+Hello there! 👋 I'm GeeHon, a seasoned software developer with extensive experience in the realm of enterprise software. I thrive on creating innovative solutions using a variety of cutting-edge technologies to meet diverse software requirements.
 
 ## Languages and Tools
 
@@ -11,7 +10,7 @@
 
 ## Where to find me
 
-[![](https://img.shields.io/badge/-@GeeHonL-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/GeehonL) [![](https://img.shields.io/badge/-geehon.github.io-rde?style=flat-square&logo=Blogger&logoColor=fff)](https://geehon.github.io)  [![](https://img.shields.io/badge/-geehon.liao@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:geehon.liao@gmail.com)
+[![](https://img.shields.io/badge/-@GeeHon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/brown4096) [![](https://img.shields.io/badge/-geehon.github.io-rde?style=flat-square&logo=Blogger&logoColor=fff)](https://geehon.github.io)  [![](https://img.shields.io/badge/-geehon.liao@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:geehon.liao@gmail.com)
 
 <a href="#">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&theme=onelight&langs_count=10&hide=html,css">
