@@ -2,16 +2,16 @@
 
 Hello there! 👋 I'm GeeHon, a seasoned software developer with extensive experience in the realm of enterprise software. I thrive on creating innovative solutions using a variety of cutting-edge technologies to meet diverse software requirements.
 
-## Languages and Tools
+## Contributions
 
-![](https://img.shields.io/badge/-PHP-1572b6?style=flat-square&logo=PHP&labelColor=2e4da4eb&logoColor=eee) ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-Python-1572b6?style=flat-square&logo=Python&labelColor=2e4da4eb&logoColor=eee) ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=2e4da4eb&logoColor=fff) ![](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![](https://img.shields.io/badge/-Sass-c76494?style=flat-square&logo=Sass&logoColor=fff) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff) 
+I actively contribute to the open-source community and believe in the power of collaborative development.
 
-![](https://camo.githubusercontent.com/6f14f374c0d532a2ebd8272f6700c4640c104f5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d666666) ![](https://img.shields.io/badge/-Docker-016cb6?style=flat-square&logo=Docker&logoColor=fff)
+## Contact
 
-## Where to find me
+Let's connect! Whether you have a question about one of my projects or want to discuss potential collaborations, you can reach me via [email](mailto:liaoliaoliao70@gmail.com).
 
-[![](https://img.shields.io/badge/-@GeeHon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/brown4096) [![](https://img.shields.io/badge/-geehon.github.io-rde?style=flat-square&logo=Blogger&logoColor=fff)](https://geehon.github.io)  [![](https://img.shields.io/badge/-geehon.liao@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:geehon.liao@gmail.com)
+Thank you for visiting, and happy coding! 🚀
 
 <a href="#">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&theme=onelight&langs_count=10&hide=html,css">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&langs_count=10&hide=html,css">
 </a>
