@@ -8,7 +8,9 @@ I actively contribute to the open-source community and believe in the power of c
 
 ## Contact
 
-Let's connect! Whether you have a question about one of my projects or want to discuss potential collaborations, you can reach me via [email](mailto:liaoliaoliao70@gmail.com). Thank you for visiting, and happy coding! 🚀
+Let's connect! Whether you have a question about one of my projects or want to discuss potential collaborations, you can reach me via [email](mailto:liaoliaoliao70@gmail.com).
+
+Thank you for visiting, and happy coding! 🚀
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&langs_count=10&hide=html,css,Dockerfile,Makefile,shell,less">
