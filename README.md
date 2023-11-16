@@ -13,5 +13,5 @@ Let's connect! Whether you have a question about one of my projects or want to d
 Thank you for visiting, and happy coding! 🚀
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&langs_count=10&hide=html,css,Dockerfile,Makefile,shell,less">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geehon&layout=compact&langs_count=10&hide=html,css,Vue,Dockerfile,Makefile,shell,less">
 </a>
